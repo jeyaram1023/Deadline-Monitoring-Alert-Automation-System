@@ -21,9 +21,11 @@ Leverages **n8n automation**, **Supabase** for cloud database, and a customizabl
 
 ## 🟦 2. System Architecture Diagram
 
+
+
+<img width="2400" height="1600" alt="n8n_Workflow_Execution_Flow" src="https://github.com/user-attachments/assets/a9b81e26-04dc-434a-9af5-aef4ddf6b67f" />
+
 <img width="1568" height="594" alt="Screenshot 2025-11-20 003347" src="https://github.com/user-attachments/assets/cc0b7884-f0fd-46fb-851b-4228f7f7c4ee" />
-
-
 ---
 
 ## 🟦 3. Technology Stack
