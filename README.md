@@ -189,6 +189,10 @@ WITH CHECK (true);
 - Submit a file, run the workflow again—should NOT receive alert if submitted on time.
 - Test missing chat ID, wrong API key, and CORS errors for troubleshooting.
 
+
+![WhatsApp Image 2025-11-21 at 4 17 32 PM](https://github.com/user-attachments/assets/c66e2a1f-05bd-4161-bc4c-54f6918aa856)
+
+
 ---
 
 ## 🟦 12. Error Handling
